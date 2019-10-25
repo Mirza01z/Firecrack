@@ -1,2 +1,7 @@
-add your wordlist here
-minim of 5 line
+1234567890
+@#£_&-+()/
+*"':;!?.,
+=$¥€~%><
+Qwertyuiop
+Asdfghjkl
+Zxcvbnm
